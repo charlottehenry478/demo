@@ -1,0 +1,5 @@
+# This is a sample Python script.
+user = input("What adjective do you want to input?")
+a = "The cat jumped over the" + user + "box"
+print(a)
+
